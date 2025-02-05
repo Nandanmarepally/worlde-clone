@@ -1,4 +1,4 @@
-roject Setup and Initialization
+Project Setup and Initialization
 Set Up the Project Directory:
 
 Create a new directory for your project.
